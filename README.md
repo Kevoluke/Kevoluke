@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- SOCIALS -->
 <p align="center"> 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/kevin-luke" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kevoluke's LinkedIn" />
+  <a href="https://www.linkedin.com/in/kevin-luke](https://www.linkedin.com/in/kevin-luke-14885663" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kevoluke's LinkedIn" />
   </a> 
   <span>&nbsp;</span>
 </p>
