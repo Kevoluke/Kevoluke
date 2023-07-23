@@ -26,14 +26,14 @@ Here are some ideas to get you started:
   </a> 
   <span>&nbsp;</span>
 </p>
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=royokite&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Kevoluke&theme=radical&hide_border=true)](https://git.io/streak-stats)
  -->
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=royokite&show_icons=true&locale=en&theme=aura_dark&hide_border=true" alt="roy overview" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kevoluke&show_icons=true&locale=en&theme=aura_dark&hide_border=true" alt="roy overview" />
 </p> 
   
 <p align="center"> 
-  <img src="https://streak-stats.demolab.com/?user=royokite&theme=radical&hide_border=true" alt="Kevoluke's stats" />
+  <img src="https://streak-stats.demolab.com/?user=Kevoluke&theme=radical&hide_border=true" alt="Kevoluke's stats" />
 </p>
 
 <h2 align="center">Technologies/Frameworks/Design Tools</h2>
