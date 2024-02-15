@@ -40,28 +40,28 @@ Here are some ideas to get you started:
 
 <p style="margin-top:10px" align="center">   
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" width="60" height="60" />
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" width="80" height="60" />
   </a>  
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" width="80" height="60" />
   </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" width="60" height="60" />
+    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" width="80" height="60" />
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" width="60" height="60" />
+    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" width="80" height="60" />
   </a>
   <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="mysql" width="60" height="60" />          
+    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="mysql" width="80" height="60" />          
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="mysql" width="60" height="60" />          
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="mysql" width="80" height="60" />          
   </a>
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="60" height="60" />          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="80" height="60" />          
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="60" height="60" />          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="80" height="60" />          
   </a> 
 </p>  
             
