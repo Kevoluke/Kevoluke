@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Kevoluke&theme=radical&hide_border=true)](https://git.io/streak-stats)
  -->
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Kevoluke&show_icons=true&locale=en&theme=aura_dark&hide_border=true" alt="roy overview" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kevoluke&show_icons=true&locale=en&theme=aura_dark&hide_border=true" alt="Kevoluke's overview" />
 </p> 
   
 <p align="center"> 
@@ -39,44 +39,23 @@ Here are some ideas to get you started:
 <h2 align="center">Technologies/Frameworks/Design Tools</h2>
 
 <p style="margin-top:10px" align="center">   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" width="40" height="40" />
   </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" width="40" height="40" />
   </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" width="40" height="40" />
   </a>
-  <a href="https://react.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="40" height="40" />
-  </a>  
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" />          
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" width="40" height="40" />
   </a>
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40" />          
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="mysql" width="40" height="40" />          
   </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" />          
-  </a>  
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  </a>
-  <a href="https://mui.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40" />          
-  </a>
-  <a href="https://www.figma.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />
-  </a>   
-  <a href="https://www.ruby-lang.org/en" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" />          
-  </a>
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" alt="ruby on rails" width="40" height="40" />          
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="mysql" width="40" height="40" />          
   </a>
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />          
