@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kevin Luke</h1>
+<h1 align="center">Hi 👋, I'm Kevin Luke a dedicated data analyst with a passion for stastics and visualization </h1>
 
 <!--
 **Kevoluke/Kevoluke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -62,6 +62,9 @@ Here are some ideas to get you started:
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="80" height="60" />          
+  </a> 
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="postgresql" width="80" height="60" />          
   </a> 
 </p>  
             
