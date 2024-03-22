@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kevin Luke a dedicated data analyst with a passion for stastics and visualization </h1>
+<h1 align="center">Hi 👋, I'm Kevin Luke a dedicated data analyst with a passion for Statistics and Visualization </h1>
 
 <!--
 **Kevoluke/Kevoluke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
